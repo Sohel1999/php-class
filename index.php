@@ -1,4 +1,6 @@
 <?php
 
+ $greeting="Hello";
 
-echo "hello";
+echo "{$greeting},Sohel";
+
